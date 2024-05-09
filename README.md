@@ -28,8 +28,7 @@
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
+  ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
  
  
  ## SKETCH
@@ -38,6 +37,5 @@
  ## OUTPUT
  ![EX-02](https://github.com/Keerthika23013559/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/162658262/e2450e97-cffe-411a-abc1-936f92c866b8)
 
- 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
